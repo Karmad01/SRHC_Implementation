@@ -13,3 +13,4 @@ This work was developed and proven by the authors of the paper : \\
 
 ## Instructions for running the code : 
 * 
+* Monte carlo simulation file simulates 10^5 trajectories to compute $\Lambda_t$ values 
