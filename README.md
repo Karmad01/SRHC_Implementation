@@ -1,4 +1,4 @@
-# SRHC_Implementation
+# SRHC Implementation
 We have implemented the algorithm presented in the paper as a part of our course course project
 ![](Figures/State_norm_norm0_40.png)
 ## Acknowledgement :
