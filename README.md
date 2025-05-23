@@ -11,5 +11,5 @@ This work was developed and proven by the authors of the paper : \\
 * Federico Ramponi
 * John Lygeros
 
-## Instructions for running this code : 
+## Instructions for running the code : 
 * 
