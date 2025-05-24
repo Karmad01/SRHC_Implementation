@@ -1,5 +1,7 @@
 # SRHC Implementation
 We have implemented the algorithm presented in the paper as a part of our course course project
+
+
 ![](Figures/State_norm_norm0_40.png)
 ## Acknowledgement :
 This work was developed and proven by the authors of the paper : \
@@ -12,7 +14,7 @@ This work was developed and proven by the authors of the paper : \
 * John Lygeros
 
 ## Instructions for running the code : 
-* Make sure YALMIP and sdpt3 packages are installed for MATLAB to run the code 
+* Make sure YALMIP and sdpt3 packages are installed in MATLAB to run the code 
 * Phi_func applies piecewise linear saturation to bound values between $-\varphi_{max}$ and $\varphi_{max}$
 * Monte carlo simulation file simulates $10^5$ trajectories to compute $\Lambda_t$ values 
 * Reachability_matrix computes $\mathcal{R}_k(A,B) = [ A^{k-1}B\ \dots\ AB\ B ]$
