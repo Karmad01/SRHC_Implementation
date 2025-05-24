@@ -12,5 +12,7 @@ This work was developed and proven by the authors of the paper : \
 * John Lygeros
 
 ## Instructions for running the code : 
+* Make sure YALMIP and sdpt3 packages are installed for MATLAB to run the code 
 * Phi_func applies piecewise linear saturation to bound values between $-\varphi_{max}$ and $\varphi_{max}$
 * Monte carlo simulation file simulates $10^5$ trajectories to compute $\Lambda_t$ values 
+* Reachability_matrix computes $\mathcal{R}(A,B)$
